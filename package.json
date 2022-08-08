@@ -1,0 +1,17 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "My implementation of the FCC Challenge for a Timestamp Microservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "",
+  "author": "Lior Chamla, Modified by Arafat Rahman",
+  "dependencies": {
+    "async": "~0.2.8",
+    "cors": "^2.8.5",
+    "express": "~3.2.4",
+    "strftime": "^0.10.1"
+  }
+}
